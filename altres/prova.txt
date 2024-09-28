@@ -1,2 +1,3 @@
 Hola mon !
 Modificacio del contingut.
+Ara editat amb terminal via vim.
